@@ -130,7 +130,7 @@ function LanguageSwitch()
     document.getElementById('navbar_link_1') .innerHTML = "Sobre Mim";
     document.getElementById('navbar_link_2') .innerHTML = "Projetos";
 
-    document.getElementById('subtitle')      .innerHTML = "desenvolvedor de software.";
+    document.getElementById('subtitle')      .innerHTML = "desenvolvedor backend.";
 
     document.getElementById('about_header')  .innerHTML = "./Capacidades";
     document.getElementById('text_animate')  .style.width = "33rem";
@@ -155,7 +155,7 @@ function LanguageSwitch()
     document.getElementById('navbar_link_1') .innerHTML = "About";
     document.getElementById('navbar_link_2') .innerHTML = "Projects";
 
-    document.getElementById('subtitle')      .innerHTML = "software developer.";
+    document.getElementById('subtitle')      .innerHTML = "backend developer.";
 
     document.getElementById('about_header')  .innerHTML = "./Skills";
     document.getElementById('text_animate')  .style.width = "15.2rem";
