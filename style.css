@@ -61,7 +61,7 @@
 @keyframes reveal_animation {
   	50% {
       color: var(--main-color);
-      line-height: 25px;
+      line-height: 40px;
       padding-left: 20px;
       padding-bottom: 5px;
   	}
@@ -328,7 +328,7 @@ input.check_toggle_round_flat:checked + label:after {
   align-items: center;
 }
 .about p {
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   max-width: 60rem;
 }
 .text_animate {
@@ -342,7 +342,7 @@ input.check_toggle_round_flat:checked + label:after {
 }
 
 .about_content ul {
-  font-size: 1.8rem;
+  font-size: 2.5rem;
   padding-bottom: 50px;
   color: var(--text-color);
   cursor: default;
@@ -359,7 +359,7 @@ input.check_toggle_round_flat:checked + label:after {
 }
 
 .reveal_content p {
-  font-size: 1.5rem;
+  font-size: 2.5rem;
 }
 
 .skill {
@@ -405,7 +405,7 @@ input.check_toggle_round_flat:checked + label:after {
 
   .reveal_content {
     color: var(--text-color);
-    line-height: 35px;
+    line-height: 50px;
     padding-left: 20px;
     padding-bottom: 5px;
 

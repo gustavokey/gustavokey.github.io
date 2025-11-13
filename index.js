@@ -146,8 +146,8 @@ function LanguageSwitch()
     document.getElementById('skill_embedded_1') .innerHTML = "Kernel Patching";
 
     document.getElementById('skills_list_4') .innerHTML = "» Inglês & Alemão";
-    document.getElementById('about_bio')     .innerHTML = "Eu sou um desenvolvedor apaixonado por tecnologia. Especializado em Arquitetura Java e sistemas de baixo nível.\
-                                                           O meu auge é aprender cada vez mais sobre design de sistemas e hardware, assim então poder entregar projetos robustos para o usuário final.";
+    document.getElementById('about_bio')     .innerHTML = "Eu sou um desenvolvedor backend dedicado a entender e criar tecnologias do zero. Especializado em Java e sistemas de baixo nível,\
+                                                           o meu auge é aprender cada vez mais sobre design de sistemas e hardware, assim então poder entregar projetos robustos para o usuário final.";
   }
   else
   {
@@ -171,8 +171,8 @@ function LanguageSwitch()
     document.getElementById('skill_embedded_1') .innerHTML = "Kernel Patching";
 
     document.getElementById('skills_list_4') .innerHTML = "» English & German";
-    document.getElementById('about_bio')     .innerHTML = "I'm a dedicated developer passionate about technology. Who specializes in Java Architecture principles and low level systems.\
-                                                           I strive to always learn more about systems design and hardware, so that i'm able to ship robust projects to the end user.";
+    document.getElementById('about_bio')     .innerHTML = "I'm a backend developer dedicated to understand and create techonologies from scratch. Specialized in Java and low level systems,\
+                                                           i strive to always learn more about system's design and hardware, so that i'm able to ship robust projects to the end user.";
   }
 
 }
